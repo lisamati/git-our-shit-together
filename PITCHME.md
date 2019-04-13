@@ -87,6 +87,7 @@
 
 - Gitkraken Clone Repo -> Clone with URL
 - Kopierten Link unter URL eintragen
+- Clone ist Download
 
 @olend
 
