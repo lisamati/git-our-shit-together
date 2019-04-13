@@ -3,7 +3,7 @@
 
 # GitKraken Installation
 - [https://support.gitkraken.com/how-to-install](https://support.gitkraken.com/how-to-install)
-- [https://support.gitkraken.com/how-to-install](https://support.gitkraken.com/how-to-install) 
+- [https://support.gitkraken.com/how-to-install](https://support.gitkraken.com/how-to-install) blablablablba
 
 
 # Präsentation Link
